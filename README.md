@@ -6,6 +6,8 @@ process.  In this guide you will use Google Cloud tools to automate the process
 of rotating passwords for a Cloud SQL instance. This method could easily be
 extended to other tools and types of secrets.
 
+Ref --> https://cloud.google.com/blog/products/identity-security/how-to-use-google-clouds-automatic-password-rotation
+
 ## Storing passwords in Google Cloud
 
 In Google Cloud, secrets including passwords can be stored using many different
